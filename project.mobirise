@@ -217,7 +217,7 @@
           "_name": "features3",
           "_anchor": "features3-g",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
