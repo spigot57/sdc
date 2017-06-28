@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Superior Dental Ceramics",
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -43,6 +43,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header2-c",
           "_params": {
             "imageSize": 50,
@@ -88,15 +96,7 @@
           },
           "title": "Superior Dental Ceramics",
           "text": "A restoration today brings a smile tomorrow.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>  ",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>  "
         },
         {
           "_styles": {
@@ -127,6 +127,18 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "H4": {
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": "0",
@@ -221,19 +233,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            },
-            "H4": {
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "16px",
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -380,7 +380,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "showMeta": true
           },
           "title": "Contact Us",
@@ -391,9 +391,19 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "12px",
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts2-8",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -411,23 +421,18 @@
             }
           },
           "text1": "<strong>Address</strong><br>2c/2d Grantham Road<br>BRIGHTON. BN1 6EE<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:mark@superiordentalceramics.com\" class=\"text-black\">mark@superiordentalceramics.com</a><br>\nPhone: 01273 566611<br><br>",
-          "text2": "",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "12px",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            }
-          }
+          "text2": ""
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "social-buttons1-9",
           "_params": {
             "paddingTop": "1",
@@ -446,12 +451,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "14px"
-            }
-          }
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_tags": [
