@@ -422,6 +422,14 @@ h6,
 #header2-c .mbr-section-title {
   text-align: center;
 }
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k H3 {
+  font-size: 30px;
+  text-align: right;
+}
 #features3-e P {
   font-size: 16px;
 }
@@ -430,10 +438,29 @@ h6,
 }
 #features3-e SPAN {
   font-size: 16px;
+  text-align: center;
+}
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l H3 {
+  font-size: 30px;
+}
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-m H3 {
+  font-size: 30px;
 }
 #contacts2-8 P {
   text-align: left;
   font-size: 12px;
+  color: #000000;
+}
+#contacts2-8 STRONG {
+  color: #000000;
 }
 #social-buttons1-9 .mbr-section-title {
   font-size: 14px;

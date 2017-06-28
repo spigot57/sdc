@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -99,13 +99,37 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "About Us",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
           "_anchor": "features3-e",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -136,7 +160,7 @@
           },
           "title1": "<span style=\"font-weight: normal;\">&nbsp;</span>Who are we<span style=\"font-weight: normal;\">&nbsp;</span>",
           "subtitle1": "",
-          "caption1": "<br>Established in 1988, Superior Dental Ceramics are part of the dental team who, like your Dentist are committed to ensuring the success of your new restoration and your future oral health. <br>Your new restoration is a custom made appliance specifically for you.  It is made by a fully qualified Dental Technician who is registered with the General Dental Council. <br> <br> <br>",
+          "caption1": "<span style=\"line-height: 1.5;\">Established in 1988, Superior Dental Ceramics are part of the dental team who, like your Dentist are committed to ensuring the success of your new restoration and your future oral health.&nbsp;</span><br>Your new restoration is a custom made appliance specifically for you.  It is made by a fully qualified Dental Technician who is registered with the General Dental Council. <br> <br> <br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -148,7 +172,7 @@
           },
           "title2": "Why are you coming to see us",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>Your Dentist has asked you to come and see us so that we can ensure your restoration will be the correct shade. <br>At this stage you can also discuss any thoughts you have as to how you would like your final restoration to look.&nbsp;<br>",
+          "caption2": "<span style=\"line-height: 1.5;\">Your Dentist has asked you to come and see us so that we can ensure your restoration will be the correct shade.&nbsp;</span><br>At this stage you can also discuss any thoughts you have as to how you would like your final restoration to look.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -160,7 +184,7 @@
           },
           "title3": "&nbsp;What to Expect",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<br>You will be seen by a Technician <br>who will take your shade and photograph your teeth for reference when your restoration is being fabricated.&nbsp;<br>",
+          "caption3": "<span style=\"line-height: 1.5;\">You will be seen by a Technician&nbsp;</span><br>who will take your shade and photograph your teeth for reference when your restoration is being fabricated.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -206,9 +230,33 @@
               "font-size": "16px"
             },
             "SPAN": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "center"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Our Services",
+          "meta": ""
         },
         {
           "_tags": [
@@ -217,7 +265,7 @@
           "_name": "features3",
           "_anchor": "features3-g",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -316,18 +364,41 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Contact Us",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-8",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -339,12 +410,16 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>2c/2d Grantham Road<br>BRIGHTON. BN1 6EE<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:mark@superiordentalceramics.com\">mark@superiordentalceramics.com</a><br>\nPhone: 01273 566611<br><br>",
+          "text1": "<strong>Address</strong><br>2c/2d Grantham Road<br>BRIGHTON. BN1 6EE<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:mark@superiordentalceramics.com\" class=\"text-black\">mark@superiordentalceramics.com</a><br>\nPhone: 01273 566611<br><br>",
           "text2": "",
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "12px"
+              "font-size": "12px",
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
             }
           }
         },
