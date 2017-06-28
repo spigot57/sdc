@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Superior Dental Ceramics",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -866,6 +866,29 @@
         "meta_descr": "Gallery"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Gallery",
+          "meta": "Here you can find some samples of our work"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
