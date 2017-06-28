@@ -114,7 +114,7 @@
           "_name": "header3",
           "_anchor": "header3-k",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "7",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -250,7 +250,7 @@
           "_name": "header3",
           "_anchor": "header3-l",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "7",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -378,7 +378,7 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "7",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
