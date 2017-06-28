@@ -105,7 +105,7 @@
           "_name": "features3",
           "_anchor": "features3-e",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -218,7 +218,7 @@
           "_anchor": "features3-g",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
