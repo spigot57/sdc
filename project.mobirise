@@ -500,21 +500,21 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#c1c1c1"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#c1c1c1"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#c1c1c1",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -529,7 +529,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#c1c1c1",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -549,15 +549,15 @@
           "_anchor": "menu-5",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
@@ -649,15 +649,15 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
@@ -749,15 +749,15 @@
           "_anchor": "menu-3",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
@@ -849,15 +849,15 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
@@ -972,15 +972,15 @@
           "_anchor": "menu-5",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
               "name": "Ubuntu",
               "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "css": "'Ubuntu', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#c1c1c1",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
