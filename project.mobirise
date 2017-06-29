@@ -242,7 +242,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "right"
             }
           },
           "_tags": [
