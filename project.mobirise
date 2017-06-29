@@ -143,7 +143,7 @@
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -380,7 +380,7 @@
           "_name": "header3",
           "_anchor": "header3-l",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "7",
             "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": true
