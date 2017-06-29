@@ -21,18 +21,19 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 24,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Superior Dental Ceramics",
-        "meta_descr": "Brighton Dental Laboratory",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -380,7 +381,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#fff",
             "showMeta": true
           },
           "title": "Contact Us",
@@ -403,7 +404,7 @@
           },
           "_anchor": "contacts2-8",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
