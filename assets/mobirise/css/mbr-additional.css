@@ -440,6 +440,13 @@ h6,
   font-size: 16px;
   text-align: center;
 }
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t H3 {
+  font-size: 30px;
+}
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;
@@ -785,4 +792,7 @@ h6,
 #menu-5 .link[aria-expanded="true"],
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#gallery1-s .mbr-gallery-item > div > span {
+  text-align: center;
 }
