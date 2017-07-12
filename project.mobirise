@@ -315,7 +315,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1440659914442-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1440659914442-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -364,7 +364,15 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {

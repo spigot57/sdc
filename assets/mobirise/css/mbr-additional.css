@@ -448,6 +448,12 @@ h6,
   font-size: 30px;
   text-align: right;
 }
+#features3-g P {
+  text-align: left;
+}
+#features3-g SPAN {
+  text-align: left;
+}
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;
