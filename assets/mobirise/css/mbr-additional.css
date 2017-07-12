@@ -742,23 +742,23 @@ h6,
   color: #ffffff;
 }
 #menu-5 .navbar-toggler {
-  color: #000000;
+  color: #c1c1c1;
 }
 #menu-5 .close-icon::before,
 #menu-5 .close-icon::after {
-  background-color: #000000;
+  background-color: #c1c1c1;
 }
 #menu-5 .link,
 #menu-5 .dropdown-item {
-  color: #000000;
+  color: #c1c1c1;
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-5 .link {
-  font-size: 1.15rem;
+  font-size: 0.95rem;
 }
 #menu-5 .dropdown-item,
 #menu-5 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.029rem;
 }
 #menu-5 .link:hover,
 #menu-5 .dropdown-item:hover,
@@ -783,7 +783,7 @@ h6,
   background: #ffffff;
 }
 #menu-5 .bg-color.transparent .link {
-  color: #000000;
+  color: #c1c1c1;
   transition: none;
 }
 #menu-5 .bg-color.transparent.opened .link {
@@ -799,6 +799,9 @@ h6,
 }
 #gallery1-s .mbr-gallery-item > div > span {
   text-align: center;
+}
+#footer1-x P {
+  color: #000000;
 }
 
 #menu-w .hide-buttons .nav-btn {
