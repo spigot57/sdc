@@ -299,7 +299,7 @@
           },
           "title1": "Ceramic",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Some text</span><br>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Some text and links etc.</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -311,7 +311,7 @@
           },
           "title2": "Composite",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Some more text",
+          "caption2": "Some more text and links etc.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -327,7 +327,7 @@
           },
           "title3": "Implants",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "even more text.",
+          "caption3": "even more text and links etc.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -339,7 +339,7 @@
           },
           "title4": "New Technology",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "and more text",
+          "caption4": "and more text and links etc.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
