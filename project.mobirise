@@ -315,7 +315,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1440659914442-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
