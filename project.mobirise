@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Superior Dental Ceramics",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1049,13 +1049,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-family": "'Ubuntu', sans-serif"
             },
@@ -1078,7 +1078,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {

@@ -748,15 +748,15 @@ h6,
   color: #ffffff;
 }
 #menu-5 .navbar-toggler {
-  color: #c1c1c1;
+  color: #000000;
 }
 #menu-5 .close-icon::before,
 #menu-5 .close-icon::after {
-  background-color: #c1c1c1;
+  background-color: #000000;
 }
 #menu-5 .link,
 #menu-5 .dropdown-item {
-  color: #c1c1c1;
+  color: #000000;
   font-family: 'Ubuntu', sans-serif;
 }
 #menu-5 .link {
@@ -789,7 +789,7 @@ h6,
   background: #ffffff;
 }
 #menu-5 .bg-color.transparent .link {
-  color: #c1c1c1;
+  color: #000000;
   transition: none;
 }
 #menu-5 .bg-color.transparent.opened .link {
