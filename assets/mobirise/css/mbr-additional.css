@@ -450,8 +450,13 @@ h6,
 }
 #features3-g P {
   text-align: left;
+  font-size: 14px;
 }
 #features3-g SPAN {
+  text-align: left;
+  font-size: 14px;
+}
+#features3-g B {
   text-align: left;
 }
 #header3-l .mbr-section-title,

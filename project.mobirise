@@ -276,9 +276,14 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "14px"
             },
             "SPAN": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            "B": {
               "text-align": "left"
             }
           },
@@ -298,7 +303,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -315,7 +320,7 @@
           },
           "title1": "Ceramic",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Some text and links etc.</span><br>",
+          "caption1": "<b>Veneers</b>.<br>Sometimes patients are unhappy with the shape of their teeth and having veneers applied can alter this.<br>Veneers are designed to change the shape and appearance of the teeth, and by having veneers applied we are to do this for patients and bring all the teeth in to a more symmetrical line<span style=\"font-size: 1rem; line-height: 1.5;\">.</span><br><br><b><a href=\"http://www.zubler.de/en/dental-ceramic/dental-ceramic/authentic\" class=\"text-black\">Authentic.</a></b><br><span style=\"line-height: 1.5;\">Authentic is the first ceramic system developed with all the advantages of the most commonly used techniques – PFM and Pressable Ceramics united in one.</span><br><span style=\"line-height: 1.5;\">Athentic produces a very high level of translucency and light diffusion to perfectly imitate the reflections of colours in natural dentition, no matter which technique is used.</span><br><span style=\"line-height: 1.5;\">The broad spectrum of indications includes full ceramic inlays and onlays, veneers, full crowns and multiple unit metal reinforced bridges. Almost any aesthetic restoration is achievable.</span><br><br><b>Crowns &amp;</b> <b>Bridges.</b><br>We now have available to us many materials that not only produce better aesthetics, but are stronger than ever before.<br><br><span style=\"line-height: 1.5;\"><b><a href=\"http://www.ivoclarvivadent.com.au/en-au/p/all/products/all-ceramics/ips-emax-system-dentists/\" class=\"text-black\">Emax</a></b></span><br><span style=\"line-height: 1.5;\">IPS e.max is an innovative all-ceramic system which covers the entire all-ceramic indication range from thin veneers to 10 unit bridges.The system consists of innovative lithium disilicate glass-ceramics used mainly for single tooth restorations,and high strength zirconium oxide for large spanbridges.</span><br><br><b>E.max (press</b>)<br><span style=\"line-height: 1.5;\">Although pressed ceramics have been used for more than 20 years, the Emax has a unique strength of 400 MPa as well as&nbsp;the material being available in for levels of translucency. This&nbsp;enables all restorations to be carried out even if your patient has devitalized teeth or cast core build ups.</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -327,7 +332,7 @@
           },
           "title2": "Composite",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Some more text and links etc.",
+          "caption2": "<b>Sinfony</b><br>Key Features<br><br>Excellent aesthetics and translucency<br>Superior wear characteristics<br>Excellent polish retention<br>Ease of finishing and polishing<br>Plaque and stain resistance<b><br></b><br><b>In:Joy</b><br>In:Joy  -  the new veneering composite, highly resistant to plaque and discolourations.<br><br>Indications:-<br><br>•Inlays, Onlays, veneers<br>•Anterior and posterior crowns without metal frameworks<br>•Veneering of fixed crowns and bridges with metal frameworks<br>•Telescope and conical crowns<br>•Implant superstructures<br><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -343,7 +348,7 @@
           },
           "title3": "Implants",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<a href=\"http://straumann.co.uk/\" target=\"_blank\" class=\"text-black\">Straumann Implants</a><br>We have been a Platinum approved<br>implant Laboratory for 10 years.<br>",
+          "caption3": "<b><br></b><b>Straumann Implants</b><br><br>We have been a Platinum approved<br>implant Laboratory for 10 years.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
