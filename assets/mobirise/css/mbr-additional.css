@@ -803,11 +803,11 @@ h6,
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#gallery1-s .mbr-gallery-item > div > span {
-  text-align: center;
-}
 #footer1-x P {
   color: #000000;
+}
+#msg-box5-12 P {
+  text-align: left;
 }
 
 #menu-w .hide-buttons .nav-btn {
