@@ -348,7 +348,7 @@
           },
           "title3": "Implants",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b><br></b><b>Straumann Implants</b><br><br>We have been a Platinum approved<br>implant Laboratory for 10 years.<br>",
+          "caption3": "<p><b><br></b><a href=\"http://www.straumann.co.uk/\"><b>Straumann Implants</b></a><a href=\"http://www.straumann.co.uk/\" target=\"_blank\"><b></b></a><br><br>We have been a Platinum approved<br>implant Laboratory for 10 years.<br></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
