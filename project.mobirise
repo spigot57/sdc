@@ -27,7 +27,11 @@
     "uniqCompNum": 42,
     "versionPublish": "4.4.1",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "https://spigot57.github.io/sdc",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
