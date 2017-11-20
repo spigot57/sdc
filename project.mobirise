@@ -25,8 +25,9 @@
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 42,
-    "versionPublish": "3.12.1",
-    "google-analytics": ""
+    "versionPublish": "4.4.1",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -55,24 +56,24 @@
           },
           "_anchor": "header2-c",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1361.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1361.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -116,10 +117,10 @@
           "_name": "header3",
           "_anchor": "header3-k",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "About Us",
           "meta": ""
@@ -143,26 +144,26 @@
           },
           "_anchor": "features3-e",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -261,10 +262,10 @@
           "_name": "header3",
           "_anchor": "header3-t",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Products",
           "meta": ""
@@ -289,26 +290,26 @@
           },
           "_anchor": "features3-g",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -402,10 +403,10 @@
           "_name": "header3",
           "_anchor": "header3-l",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Our Services",
           "meta": ""
@@ -417,26 +418,26 @@
           "_name": "features3",
           "_anchor": "features3-u",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -526,10 +527,10 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Contact Us",
           "meta": ""
@@ -554,13 +555,13 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Superior Dental Ceramics Ltd.\n2c/2d Grantham Road\nBRIGHTON. BN1 6EE",
               "placeId": "ChIJ_fQ4uHiFdUgRJJCDo_m9nFU",
@@ -586,13 +587,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "overlayOpacity": 0.5,
             "facebook": true,
             "twitter": true,
             "google": true,
@@ -658,6 +659,12 @@
           "_name": "menu",
           "_anchor": "menu-5",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -666,13 +673,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -708,13 +709,13 @@
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Superior Dental Ceramics."
         }
@@ -784,6 +785,12 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -792,13 +799,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -885,6 +886,12 @@
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -893,13 +900,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -986,6 +987,12 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -994,13 +1001,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1045,10 +1046,10 @@
           "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Gallery",
           "meta": "Here you can find some samples of our work"
@@ -1110,6 +1111,12 @@
           "_name": "menu",
           "_anchor": "menu-5",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -1118,13 +1125,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1160,13 +1161,13 @@
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Superior Dental Ceramics."
         },
@@ -1175,27 +1176,32 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-12",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1221,12 +1227,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Before",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1235,25 +1236,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-13",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1288,25 +1289,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-14",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1341,25 +1342,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-15",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1453,6 +1454,12 @@
           "_name": "menu",
           "_anchor": "menu-w",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {
@@ -1461,13 +1468,7 @@
               "css": "'Ubuntu', sans-serif"
             },
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1495,26 +1496,26 @@
           "_name": "features3",
           "_anchor": "features3-y",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
